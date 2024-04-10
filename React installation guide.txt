@@ -1,0 +1,6 @@
+// create a React file
+
+npx create-react-app dojo-blog
+code . //to open the newly created file
+
+
